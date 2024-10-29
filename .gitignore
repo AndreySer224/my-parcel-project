@@ -6,3 +6,5 @@ dist/
 
 # Игнорировать папку .cache (кэш Parcel)
 .cache/
+
+.parcel-cache/
