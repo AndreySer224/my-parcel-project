@@ -1,10 +1,10 @@
 {
   "name": "site",
   "version": "1.0.0",
-
+ 
   "scripts": {
-    "start": "parcel src/index.html",
-   "build": "parcel build src/index.html --dist-dir docs"
+   "start": "parcel src/index.html",
+  "build": "parcel build src/index.html --dist-dir docs --public-url ./"
   },
   "keywords": [],
   "author": "",
