@@ -3,8 +3,10 @@
 
 $button-background: #18C576;
 $button-background-close: #AC59F2;
-$button-hover-background: darken($button-background, 10%);
-$button-hover-background-close: darken($button-background-close, 10%);
+$button-hover-background: #14a061;
+// darken($button-background, 10%);
+$button-hover-background-close: #8643bc;
+// darken($button-background-close, 10%);
 
 body { 
   font-family: "Inter", sans-serif;
