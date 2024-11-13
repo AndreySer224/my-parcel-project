@@ -89,8 +89,13 @@ body {
   fill: $color;
   width: 1.19rem;
   height: 1.19rem;
+  cursor: pointer;
+  transition: fill 0.3s ease;  
 }
 
+.icon.heard.active {
+  fill: red; 
+}
 .product-section{
   width: 100%;
   max-width: clamp(784px, 82vw, 1200px);
@@ -409,6 +414,7 @@ body {
         margin-top: 20%;
       }
   }
+
 
   @media screen and (max-width: 1024px){
     .container-video{

@@ -113,5 +113,13 @@ document.getElementById("applyForm").addEventListener("submit", function(event) 
         }, 3000);
     }
 });
+// Получаем все элементы с классом "icon heart"
+const icons = document.querySelectorAll(".icon.heard");
+// Назначаем обработчик клика для каждого элемента
+icons.forEach((icon)=>{
+    icon.addEventListener("click", ()=>{
+        icon.classList.toggle("active");
+    });
+});
 
 //# sourceMappingURL=index.579125c3.js.map

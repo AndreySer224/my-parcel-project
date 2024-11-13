@@ -82,8 +82,14 @@ body h1, body h2, body h3, body h4, body h5, body h6, body p {
 
 .icon {
   fill: #fff;
+  cursor: pointer;
   width: 1.19rem;
   height: 1.19rem;
+  transition: fill .3s;
+}
+
+.icon.heard.active {
+  fill: red;
 }
 
 .product-section {
