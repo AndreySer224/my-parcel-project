@@ -1,7 +1,4 @@
-6017
-67C:\test\test-task\node_modules\css-tree\lib\syntax\node\Selector.js133741391517297790 0
-51C:\test\test-task\node_modules\json5\lib\unicode.js133741391510637682 0
-49C:\test\test-task\node_modules\fill-range\LICENSE133741391508108527 0
+6052
 96C:\test\test-task\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133741391517112078 0
 87C:\test\test-task\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133741391514272705 0
 87C:\test\test-task\node_modules\@swc\helpers\esm\_class_static_private_field_spec_get.js133741391517714712 0
@@ -12,7 +9,7 @@
 52C:\test\test-task\node_modules\msgpackr\package.json133741391512419505 0
 62C:\test\test-task\node_modules\caniuse-lite\data\regions\BM.js133741391514596111 0
 49C:\test\test-task\node_modules\.package-lock.json133741395649390878 0
-30C:\test\test-task\package.json133759552641469251 0
+30C:\test\test-task\package.json133759575702065193 0
 28C:\test\test-task\src\images133754587064671086 1
 89C:\test\test-task\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133741391519176995 0
 48C:\test\test-task\node_modules\svgo\lib\style.js133741391512080614 0
@@ -45,6 +42,23 @@
 47C:\test\test-task\node_modules\csso\cjs\replace133741391513129359 1
 51C:\test\test-task\node_modules\json5\lib\require.js133741391510345227 0
 22C:\test\test-task\dist133759538105243719 1
+73C:\test\test-task\node_modules\json-parse-even-better-errors\CHANGELOG.md133741391508817836 0
+66C:\test\test-task\node_modules\svgo\plugins\convertStyleToAttrs.js133741391513990573 0
+68C:\test\test-task\node_modules\@swc\helpers\cjs\_read_only_error.cjs133741391517092077 0
+32C:\test\test-task\src\sprite.svg133754821002914914 0
+60C:\test\test-task\node_modules\source-map-js\source-map.d.ts133741391511457725 0
+60C:\test\test-task\node_modules\css-tree\lib\syntax\create.js133741391516288951 0
+57C:\test\test-task\node_modules\nth-check\lib\esm\parse.js133741391509795828 0
+82C:\test\test-task\node_modules\caniuse-lite\data\features\subresource-integrity.js133741391520784909 0
+109C:\test\test-task\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\IdSelector.js133741391514241179 0
+47C:\test\test-task\node_modules\css-tree\LICENSE133741391508108527 0
+58C:\test\test-task\node_modules\entities\lib\index.d.ts.map133741391511756184 0
+22C:\test\test-task\docs133759575784406131 1
+74C:\test\test-task\node_modules\caniuse-lite\data\features\text-emphasis.js133741391520935338 0
+74C:\test\test-task\node_modules\caniuse-lite\data\features\server-timing.js133741391520474466 0
+53C:\test\test-task\node_modules\import-fresh\readme.md133741391509157686 0
+71C:\test\test-task\node_modules\type-fest\source\conditional-except.d.ts133741391510477207 0
+66C:\test\test-task\node_modules\caniuse-lite\data\features\asmjs.js133741391512908656 0
 63C:\test\test-task\node_modules\@swc\helpers\scripts\ast_grep.js133741391518153957 0
 105C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\addClassesToSVGElement.js133741391510477207 0
 65C:\test\test-task\node_modules\type-fest\source\package-json.d.ts133741391512080614 0
@@ -58,6 +72,7 @@
 93C:\test\test-task\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\generator133741391515592574 1
 65C:\test\test-task\node_modules\css-select\lib\esm\attributes.d.ts133741391514596111 0
 30C:\test\test-task\node_modules133741395648434239 1
+54C:\test\test-task\docs\index.4a508c1d.css.map.25696.1w133754728288420010 0
 21C:\test\test-task\src133754587064671086 1
 81C:\test\test-task\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDC.cjs133741391510847665 0
 51C:\test\test-task\node_modules\electron-to-chromium133741391510983986 1
@@ -77,10 +92,6 @@
 63C:\test\test-task\node_modules\electron-to-chromium\versions.js133741391509953000 0
 97C:\test\test-task\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Number.js133741391513097092 0
 30C:\test\test-task\src\index.js133759532792070230 0
-73C:\test\test-task\node_modules\json-parse-even-better-errors\CHANGELOG.md133741391508817836 0
-66C:\test\test-task\node_modules\svgo\plugins\convertStyleToAttrs.js133741391513990573 0
-68C:\test\test-task\node_modules\@swc\helpers\cjs\_read_only_error.cjs133741391517092077 0
-32C:\test\test-task\src\sprite.svg133754821002914914 0
 65C:\test\test-task\node_modules\domutils\lib\manipulation.d.ts.map133741391511144544 0
 51C:\test\test-task\node_modules\semver\bin\semver.js133741391513129359 0
 62C:\test\test-task\node_modules\caniuse-lite\data\regions\LA.js133741391519291570 0
@@ -483,6 +494,7 @@
 39C:\test\test-task\node_modules\readdirp133741395647458074 1
 83C:\test\test-task\node_modules\css-select\node_modules\entities\lib\decode.d.ts.map133741391512750331 0
 40C:\test\test-task\node_modules\nth-check133741391511786308 1
+53C:\test\test-task\docs\product4.1e378201.jpg.25696.1x133754728288420010 0
 44C:\test\test-task\node_modules\svgo\lib\svgo133741391512637273 1
 81C:\test\test-task\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.mjs133741391514596111 0
 58C:\test\test-task\node_modules\sass\types\value\index.d.ts133741395648216044 0
@@ -507,6 +519,7 @@
 65C:\test\test-task\node_modules\css-tree\cjs\syntax\config\mix.cjs133741391514945389 0
 61C:\test\test-task\node_modules\svgo\plugins\removeMetadata.js133741391514782320 0
 72C:\test\test-task\node_modules\caniuse-lite\data\features\ol-reversed.js133741391519957452 0
+44C:\test\test-task\docs\product5.4e11ade0.jpg133759538104948346 0
 37C:\test\test-task\node_modules\parcel133741391510323900 1
 76C:\test\test-task\node_modules\node-gyp-build-optional-packages\package.json133741391509705074 0
 44C:\test\test-task\node_modules\parent-module133741391509005581 1
@@ -610,14 +623,14 @@
 35C:\test\test-task\node_modules\svgo133741391512923623 1
 111C:\test\test-task\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133741391522582068 0
 40C:\test\test-task\node_modules\term-size133741391510477207 1
+53C:\test\test-task\node_modules\update-browserslist-db133741391510145049 1
+60C:\test\test-task\node_modules\svgo\plugins\removeDoctype.js133741391514596111 0
 95C:\test\test-task\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts133741391511031981 0
 69C:\test\test-task\node_modules\type-fest\source\iterable-element.d.ts133741391511593060 0
 38C:\test\test-task\node_modules\timsort133741391510166114 1
 52C:\test\test-task\node_modules\node-releases\LICENSE133741391508108527 0
 87C:\test\test-task\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133741391510983986 0
 47C:\test\test-task\node_modules\readdirp\LICENSE133741395647307327 0
-53C:\test\test-task\node_modules\update-browserslist-db133741391510145049 1
-60C:\test\test-task\node_modules\svgo\plugins\removeDoctype.js133741391514596111 0
 45C:\test\test-task\node_modules\to-regex-range133741391509005581 1
 68C:\test\test-task\node_modules\@parcel\resolver-default\package.json133741391509249994 0
 79C:\test\test-task\node_modules\csso\node_modules\css-tree\cjs\syntax\create.cjs133741391512273384 0
@@ -812,13 +825,6 @@
 81C:\test\test-task\node_modules\htmlnano\lib\modules\minifyConditionalComments.cjs133741391511275545 0
 67C:\test\test-task\node_modules\htmlnano\lib\modules\mergeStyles.mjs133741391515023714 0
 58C:\test\test-task\node_modules\type-fest\source\basic.d.ts133741391510102841 0
-60C:\test\test-task\node_modules\source-map-js\source-map.d.ts133741391511457725 0
-60C:\test\test-task\node_modules\css-tree\lib\syntax\create.js133741391516288951 0
-57C:\test\test-task\node_modules\nth-check\lib\esm\parse.js133741391509795828 0
-82C:\test\test-task\node_modules\caniuse-lite\data\features\subresource-integrity.js133741391520784909 0
-53C:\test\test-task\node_modules\import-fresh\readme.md133741391509157686 0
-71C:\test\test-task\node_modules\type-fest\source\conditional-except.d.ts133741391510477207 0
-66C:\test\test-task\node_modules\caniuse-lite\data\features\asmjs.js133741391512908656 0
 68C:\test\test-task\node_modules\postcss-value-parser\lib\stringify.js133741391509249994 0
 99C:\test\test-task\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133741391510405595 0
 69C:\test\test-task\node_modules\type-fest\source\conditional-keys.d.ts133741391510637682 0
@@ -1067,6 +1073,7 @@
 60C:\test\test-task\node_modules\@swc\helpers\esm\_defaults.js133741391517800896 0
 91C:\test\test-task\node_modules\csso\node_modules\css-tree\lib\syntax\node\index-generate.js133741391516632684 0
 62C:\test\test-task\node_modules\caniuse-lite\data\regions\UA.js133741391521123702 0
+45C:\test\test-task\docs\index.eb878641.css.map133759575784396145 0
 47C:\test\test-task\node_modules\stable\stable.js133741391509135690 0
 66C:\test\test-task\node_modules\css-tree\cjs\syntax\scope\index.cjs133741391514549722 0
 48C:\test\test-task\node_modules\sass\package.json133741395647691938 0
@@ -1107,8 +1114,8 @@
 65C:\test\test-task\node_modules\@swc\core-win32-x64-msvc\README.md133741391508467762 0
 64C:\test\test-task\node_modules\svgo\plugins\removeHiddenElems.js133741391514752304 0
 77C:\test\test-task\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133741391514804319 0
-67C:\test\test-task\node_modules\svgo\plugins\removeOffCanvasPaths.js133741391514804319 0
 55C:\test\test-task\node_modules\@parcel\transformer-json133741391509249994 1
+67C:\test\test-task\node_modules\svgo\plugins\removeOffCanvasPaths.js133741391514804319 0
 58C:\test\test-task\node_modules\@parcel\utils\src\is-url.js133741391513826525 0
 53C:\test\test-task\node_modules\entities\lib\encode.js133741391510367999 0
 54C:\test\test-task\node_modules\sass\types\compile.d.ts133741395648110711 0
@@ -1809,6 +1816,7 @@
 64C:\test\test-task\node_modules\node-addon-api\node_addon_api.gyp133741391508427430 0
 115C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133741391511572367 0
 75C:\test\test-task\node_modules\node-gyp-build-optional-packages\optional.js133741391509456079 0
+44C:\test\test-task\docs\index.90939116.js.map133759575784396145 0
 73C:\test\test-task\node_modules\node-gyp-build-optional-packages\README.md133741391509953000 0
 96C:\test\test-task\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\LICENSE133741391508280428 0
 59C:\test\test-task\node_modules\cosmiconfig\dist\readFile.js133741391510917503 0
@@ -2209,6 +2217,7 @@
 61C:\test\test-task\node_modules\lmdb\bin\download-prebuilds.js133741391515815941 0
 61C:\test\test-task\node_modules\lines-and-columns\package.json133741391508910783 0
 65C:\test\test-task\node_modules\htmlnano\lib\modules\minifyCss.cjs133741391511425550 0
+45C:\test\test-task\docs\likkk.svg.394398b8.png133754706581330269 0
 58C:\test\test-task\node_modules\lines-and-columns\README.md133741391509157686 0
 72C:\test\test-task\node_modules\caniuse-lite\data\features\css-lch-lab.js133741391516632684 0
 80C:\test\test-task\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133741391510763813 0
@@ -2255,11 +2264,15 @@
 49C:\test\test-task\node_modules\json5\lib\parse.js133741391509953000 0
 58C:\test\test-task\node_modules\css-tree\lib\lexer\index.js133741391516810878 0
 52C:\test\test-task\node_modules\json5\lib\register.js133741391510166114 0
+42C:\test\test-task\docs\Vector.1647ec25.png133759538104948346 0
 67C:\test\test-task\node_modules\@parcel\source-map\dist\wasm.js.flow133741391510082816 0
 61C:\test\test-task\node_modules\@swc\helpers\src\_ts_param.mjs133741391518841308 0
 86C:\test\test-task\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\default.cjs133741391512857156 0
 86C:\test\test-task\node_modules\csso\node_modules\css-tree\lib\tokenizer\TokenStream.js133741391517376684 0
 53C:\test\test-task\node_modules\json5\lib\stringify.js133741391510477207 0
+67C:\test\test-task\node_modules\css-tree\lib\syntax\node\Selector.js133741391517297790 0
+51C:\test\test-task\node_modules\json5\lib\unicode.js133741391510637682 0
+49C:\test\test-task\node_modules\fill-range\LICENSE133741391508108527 0
 85C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\README.md133741391516085700 0
 50C:\test\test-task\node_modules\json5\lib\util.d.ts133741391511934979 0
 68C:\test\test-task\node_modules\css-tree\cjs\syntax\node\Function.cjs133741391513479630 0
@@ -2656,11 +2669,6 @@
 94C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergeStyles.js133741391512637273 0
 60C:\test\test-task\node_modules\entities\lib\encode-trie.d.ts133741391512080614 0
 62C:\test\test-task\node_modules\@swc\helpers\cjs\_construct.cjs133741391516707055 0
-109C:\test\test-task\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\IdSelector.js133741391514241179 0
-47C:\test\test-task\node_modules\css-tree\LICENSE133741391508108527 0
-58C:\test\test-task\node_modules\entities\lib\index.d.ts.map133741391511756184 0
-74C:\test\test-task\node_modules\caniuse-lite\data\features\text-emphasis.js133741391520935338 0
-74C:\test\test-task\node_modules\caniuse-lite\data\features\server-timing.js133741391520474466 0
 52C:\test\test-task\node_modules\entities\lib\index.js133741391510477207 0
 89C:\test\test-task\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaFeature.js133741391516930672 0
 87C:\test\test-task\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaQuery.js133741391516942081 0
@@ -3364,6 +3372,7 @@
 67C:\test\test-task\node_modules\@parcel\core\lib\UncommittedAsset.js133741391516485874 0
 66C:\test\test-task\node_modules\css-tree\lib\lexer\generic-const.js133741391516632684 0
 69C:\test\test-task\node_modules\@swc\helpers\esm\_wrap_native_super.js133741391518153957 0
+41C:\test\test-task\docs\index.eb878641.css133759575784354875 0
 60C:\test\test-task\node_modules\css-tree\lib\lexer\generic.js133741391516632684 0
 82C:\test\test-task\node_modules\caniuse-lite\data\features\extended-system-fonts.js133741391518102251 0
 58C:\test\test-task\node_modules\css-tree\lib\lexer\match.js133741391516964457 0
@@ -3481,6 +3490,7 @@
 74C:\test\test-task\node_modules\css-tree\cjs\syntax\node\common\feature.cjs133741391513129359 0
 67C:\test\test-task\node_modules\css-tree\cjs\syntax\function\var.cjs133741391515895007 0
 66C:\test\test-task\node_modules\@swc\helpers\_\_array_without_holes133741391510367999 1
+44C:\test\test-task\docs\product5.7479be77.jpg133759575773979592 0
 92C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property133741391512637273 1
 77C:\test\test-task\node_modules\css-tree\cjs\syntax\config\parser-selector.cjs133741391515242079 0
 54C:\test\test-task\node_modules\chokidar\index.d.ts.map133741395647552367 0
@@ -3984,6 +3994,7 @@
 78C:\test\test-task\node_modules\caniuse-lite\data\features\css-width-stretch.js133741391517477974 0
 62C:\test\test-task\node_modules\caniuse-lite\data\regions\GG.js133741391518460623 0
 75C:\test\test-task\node_modules\caniuse-lite\data\features\variable-fonts.js133741391521123702 0
+33C:\test\test-task\docs\index.html133759575784354875 0
 62C:\test\test-task\node_modules\caniuse-lite\data\regions\GL.js133741391518460623 0
 62C:\test\test-task\node_modules\caniuse-lite\data\regions\GM.js133741391518460623 0
 80C:\test\test-task\node_modules\caniuse-lite\data\features\css-relative-colors.js133741391517092077 0
@@ -4514,6 +4525,7 @@
 82C:\test\test-task\node_modules\@swc\helpers\_\_class_static_private_field_spec_get133741391513990573 1
 61C:\test\test-task\node_modules\@parcel\cache\lib\LMDBCache.js133741391510847665 0
 80C:\test\test-task\node_modules\@swc\helpers\_\_class_static_private_field_update133741391514138783 1
+44C:\test\test-task\docs\product1.80fe9f10.jpg133759575773979592 0
 56C:\test\test-task\node_modules\@swc\helpers\_\_construct133741391514282704 1
 59C:\test\test-task\node_modules\@swc\helpers\_\_create_class133741391514342714 1
 79C:\test\test-task\node_modules\@swc\helpers\_\_array_like_to_array\package.json133741391509715080 0
@@ -4535,6 +4547,7 @@
 65C:\test\test-task\node_modules\@parcel\packager-js\src\helpers.js133741391510983986 0
 74C:\test\test-task\node_modules\@swc\helpers\_\_possible_constructor_return133741391515592574 1
 50C:\test\test-task\node_modules\@swc\helpers\_\_set133741391515592574 1
+44C:\test\test-task\docs\product3.c93fa4c8.jpg133759575773687889 0
 63C:\test\test-task\node_modules\@swc\helpers\_\_set_prototype_of133741391515699145 1
 69C:\test\test-task\node_modules\@swc\helpers\cjs\_write_only_error.cjs133741391517368148 0
 60C:\test\test-task\node_modules\@parcel\cache\lib\IDBCache.js133741391510305605 0
@@ -4656,6 +4669,7 @@
 77C:\test\test-task\node_modules\@swc\helpers\src\_class_private_method_set.mjs133741391518460623 0
 91C:\test\test-task\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133741391518460623 0
 88C:\test\test-task\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs133741391518460623 0
+44C:\test\test-task\docs\product2.684ff528.jpg133759575774290126 0
 65C:\test\test-task\node_modules\@swc\helpers\src\_create_class.mjs133741391518460623 0
 88C:\test\test-task\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133741391518460623 0
 65C:\test\test-task\node_modules\@swc\helpers\src\_create_super.mjs133741391518460623 0
@@ -4807,6 +4821,7 @@
 62C:\test\test-task\node_modules\@swc\helpers\cjs\_using_ctx.cjs133741391517297790 0
 73C:\test\test-task\node_modules\@swc\helpers\cjs\_wrap_async_generator.cjs133741391517297790 0
 51C:\test\test-task\node_modules\@swc\core\index.d.ts133741391509795828 0
+44C:\test\test-task\docs\test-task.59712999.js133759538105193662 0
 49C:\test\test-task\node_modules\@swc\core\index.js133741391510082816 0
 53C:\test\test-task\node_modules\@swc\core\package.json133741391510276530 0
 51C:\test\test-task\node_modules\@swc\core\spack.d.ts133741391510625608 0
@@ -5327,6 +5342,7 @@
 92C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\svgo\dist\svgo.browser.js133741391514804319 0
 80C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\svgo\bin\svgo133741391508666886 0
 79C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css133741391512409229 1
+44C:\test\test-task\docs\index.579125c3.js.map133759538105028336 0
 84C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\index.js133741391509249994 0
 83C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\LICENSE133741391508290664 0
 89C:\test\test-task\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n\css.json133741391510637682 0
@@ -5643,6 +5659,7 @@
 105C:\test\test-task\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Atrule.js133741391509695098 0
 61C:\test\test-task\node_modules\@parcel\cache\src\LMDBCache.js133741391510983986 0
 112C:\test\test-task\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133741391509953000 0
+44C:\test\test-task\docs\product1.9bcce78a.jpg133759538104958345 0
 116C:\test\test-task\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133741391510477207 0
 107C:\test\test-task\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Brackets.js133741391510763813 0
 102C:\test\test-task\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\CDO.js133741391510983986 0
@@ -5819,6 +5836,7 @@
 73C:\test\test-task\node_modules\@parcel\core\test\fixtures\parcel\other.js133741391515318218 0
 74C:\test\test-task\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133741391517040853 0
 79C:\test\test-task\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133741391516964457 0
+54C:\test\test-task\docs\index.4a508c1d.css.map.20436.8l133741723403752803 0
 94C:\test\test-task\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules133741391515132533 1
 127C:\test\test-task\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\package.json133741391516964457 0
 96C:\test\test-task\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json133741391516942081 0
@@ -5861,6 +5879,7 @@
 68C:\test\test-task\node_modules\@parcel\core\src\SymbolPropagation.js133741391516236574 0
 67C:\test\test-task\node_modules\@parcel\core\src\UncommittedAsset.js133741391516485874 0
 78C:\test\test-task\node_modules\@parcel\core\src\requests\BundleGraphRequest.js133741391513759104 0
+42C:\test\test-task\docs\Vector.5872bb98.png133759575773979592 0
 73C:\test\test-task\node_modules\@parcel\core\src\requests\DevDepRequest.js133741391514427938 0
 78C:\test\test-task\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js133741391515592574 0
 79C:\test\test-task\node_modules\@parcel\core\src\requests\ParcelConfigRequest.js133741391515707694 0
@@ -5950,6 +5969,7 @@
 47C:\test\test-task\node_modules\@babel\highlight133741391509516054 1
 51C:\test\test-task\node_modules\@babel\highlight\lib133741391509135690 1
 55C:\test\test-task\node_modules\@babel\highlight\LICENSE133741391508108527 0
+45C:\test\test-task\docs\index.4a508c1d.css.map133759538105114646 0
 60C:\test\test-task\node_modules\@babel\highlight\node_modules133741391496900372 1
 60C:\test\test-task\node_modules\@babel\highlight\package.json133741391509595090 0
 57C:\test\test-task\node_modules\@babel\highlight\README.md133741391508467762 0
@@ -5969,6 +5989,7 @@
 83C:\test\test-task\node_modules\@babel\highlight\node_modules\color-convert\route.js133741391509953000 0
 75C:\test\test-task\node_modules\@babel\highlight\node_modules\chalk\index.js133741391508467762 0
 79C:\test\test-task\node_modules\@babel\highlight\node_modules\chalk\package.json133741391508270415 0
+44C:\test\test-task\docs\product3.b644f4a7.jpg133759538105091893 0
 76C:\test\test-task\node_modules\@babel\highlight\node_modules\chalk\readme.md133741391509585093 0
 83C:\test\test-task\node_modules\@babel\highlight\node_modules\chalk\types\index.d.ts133741391510092804 0
 82C:\test\test-task\node_modules\@babel\highlight\node_modules\ansi-styles\readme.md133741391509157686 0
@@ -6004,6 +6025,20 @@
 44C:\test\test-task\node_modules\.bin\svgo.ps1133741391522602057 0
 62C:\test\test-task\node_modules\.bin\update-browserslist-db.cmd133741391522602057 0
 62C:\test\test-task\node_modules\.bin\update-browserslist-db.ps1133741391522602057 0
+32C:\test\test-task\docs\.nojekyll133759567099460047 0
+39C:\test\test-task\docs\Eye.71fda924.png133754706581050590 0
+53C:\test\test-task\docs\img video section.37bf6569.jpg133759538105233650 0
+53C:\test\test-task\docs\img video section.9f2d3fcb.jpg133759575778591814 0
+41C:\test\test-task\docs\index.4a508c1d.css133759538105091893 0
+40C:\test\test-task\docs\index.579125c3.js133759538104948346 0
+53C:\test\test-task\docs\index.579125c3.js.map.25696.1v133754728288394944 0
+40C:\test\test-task\docs\index.90939116.js133759575784354875 0
+44C:\test\test-task\docs\product2.6d4bccd4.jpg133759538104958345 0
+44C:\test\test-task\docs\product4.1e378201.jpg133759538105203678 0
+44C:\test\test-task\docs\product4.7e5e9ab8.jpg133759575778581806 0
+42C:\test\test-task\docs\sprite.38d394c2.svg133759575777638360 0
+42C:\test\test-task\docs\sprite.9a0dfbc9.svg133759538104948346 0
+48C:\test\test-task\docs\test-task.59712999.js.map133759538105223656 0
 41C:\test\test-task\dist\index.4a508c1d.css133759538105091893 0
 45C:\test\test-task\dist\index.4a508c1d.css.map133759538105114646 0
 54C:\test\test-task\dist\index.4a508c1d.css.map.20436.8l133741723403752803 0

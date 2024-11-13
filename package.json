@@ -1,8 +1,9 @@
 {
   "name": "test-task",
   "version": "1.0.0",
-  "main": "index.js",
+  "homepage": "./",
   "scripts": {
+    "build": "parcel build src/index.html --dist-dir docs",
     "start": "parcel src/index.html"
   },
   "keywords": [],
