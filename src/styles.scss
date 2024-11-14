@@ -3,8 +3,8 @@ $background-color: #f2f2f2;
 $background: #18C576;
 $button-background: #18C576;
 $button-background-close: #AC59F2;
-$button-hover-background: darken($button-background, 10%);
-$button-hover-background-close: darken($button-background-close, 10%);
+$button-hover-background: #1bb36e;
+$button-hover-background-close: #944ece;
 $color: #FFFFFF;
 $radius: 5px;
 
@@ -269,6 +269,7 @@ body {
   background-color: $button-background;
   cursor: pointer;
   z-index: 10; 
+  transition: background-color 0.3s ease;
   &:hover {
     background-color: $button-hover-background;
   }
